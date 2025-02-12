@@ -30,7 +30,15 @@
 🎯 Objetivo: Aportar valor al sector tecnológico desarrollando aplicaciones que superen las expectativas y contribuyan al crecimiento de las empresas.
 
 ## 💻 Tecnologías y Más
-  
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/d7d9f550bdc257fb6a47323ffc0f50c067481a616f1f0e5dd468d3acd2cec4c7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f68733442536163464b493741373137792f67697068792e676966" width="250px" />
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="250px" />
+</div>
+
+<br/>
+
+### Lenguajes y Herramientas
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -50,17 +58,34 @@
 ![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=github&logoColor=ffffff)
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="100px" align="right" />
-            
-  ## 📞 Contacto : 
+---
 
-<a href="https://wa.me/528180147117" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+## 📞 Contacto
+
+<div align="left">
+  <a href="https://wa.me/528180147117" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/omar-garc%C3%ADa-programador/" target="_blank">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px"/>
-</a>
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30px"/>
+  </a>
   <a href="mailto:omar.garcia.21@hotmail.com" target="_blank">
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="30px"/>
-</a>
-  
+  </a>
+</div>
+
+---
+
+
+  ## 🌟 Proyectos :
+  ### 🚀 [Cafeteria ](#1)
+- **Descripción:** Este proyecto es una página web sencilla para una cafetería, diseñada para mostrar información sobre la cafetería, su menú, reseñas de clientes, galería de imágenes y detalles de contacto. El sitio es responsivo y utiliza tecnologías como HTML, CSS y JavaScript, junto con la librería Swiper para el carrusel de reseñas.
+- **Estado:** ✅ Completado
+- **Tecnologías:** 🌐 Html5, 🎨 CSS, 🚀 Js, 🎠 Swiper
+- **Link del proyecto:** https://omargarcia21.github.io/cafeteria/
+
+ ### 🚀 [Biblioteca ](#2)
+- **Descripción:** Esta aplicación de gestión de bibliotecas permite realizar operaciones CRUD sobre las entidades principales del sistema: Usuarios, Libros, Autores y Bibliotecas. La aplicación está diseñada para ser intuitiva y fácil de usar, integrando una interfaz web atractiva y tecnológicamente robusta. Además, ofrece seguridad mediante Spring Security y pruebas unitarias para garantizar su calidad.
+- **Estado:** ✅ Completado
+- **Tecnologías:** ☕ Java 17, 📦 Maven , 🌱 Spring Boot, 🔒 Seguridad de primavera,  🐬MySQL, 🖋️ Thymeleaf, 🎨 Bootstrap & 🔍 JUnit
+- **Link del proyecto:** https://github.com/Omargarcia21/proyecto-biblioteca
